@@ -1,0 +1,536 @@
+defaults: &defaults
+  site:
+    name: 〜ポーズで部活はもっと楽しくなる〜 クサイイポーズ選手権 supported by 8x4 BODY FRESH
+    url: https://www.8x4-kusaii-pose.com
+    sns_account:
+      twitter: https://twitter.com/8x4bodyfresh
+      instagram: https://www.instagram.com/8x4bodyfresh/
+    meta:
+      title: 〜ポーズで部活はもっと楽しくなる〜 クサイイポーズ選手権 supported by 8x4 BODY FRESH
+      description: 夏だ！部活だ！全国NO.1ポーズを決めるクサイイポーズ選手権開幕！ 8x4から部活がサイコーに盛り上がる32のクサイイポーズを発表！部活のみんなと、ポーズで思い出を残そう！
+      keywords: 部活, 8x4, クサイイ, ポーズ, BODY FRESH, クサイイポーズ, 仲間, 汗ケアサイエンス
+      webclipicon_url: /webclipicon.png
+      favicon_url: /favicon.ico
+      fb:
+        app_id: 813703825450270
+      og:
+        title: 〜ポーズで部活はもっと楽しくなる〜 クサイイポーズ選手権 supported by 8x4 BODY FRESH
+        type: website
+        image_path: /img/ogp.png
+      twitter:
+        title: 〜ポーズで部活はもっと楽しくなる〜 クサイイポーズ選手権 supported by 8x4 BODY FRESH
+        description: |-
+          ＼＼夏だ！部活だ！エイエイフォーー！／／
+          全国NO.1ポーズを決める #クサイイポーズ選手権 開催中！
+          夏の #部活を盛り上げるクサイイポーズ を投稿してスペシャル豪華賞品を手に入れよう！
+        image: /img/ogp.png
+        hashtags: クサイイポーズ選手権
+  poses:
+    - index: 1
+      name: teamlove
+      ja: チーム愛ポーズ
+      site_ja: チーム愛ポーズ
+      name_length: short
+      description: |-
+        チーム愛をアピールする複数人でのポーズ。
+        万里の長城的にどこまでも横につないでいける。
+      share_description: |-
+        【 #部活を盛り上げるクサイイポーズ NO.1 】
+        #チーム愛ポーズ
+        チーム愛をアピールする複数人でのポーズ。
+        万里の長城的にどこまでも横につないでいける。
+        #クサイイポーズ選手権
+    - index: 2
+      name: oni
+      ja: 鬼顧問成敗ポーズ
+      site_ja: 鬼顧問成敗ポーズ
+      name_length: short
+      description: |-
+        部活の鬼すぎる顧問を成敗する時に使うポーズ。
+        見つかると逆に顧問に怒られるので要注意。
+      share_description: |-
+        【 #部活を盛り上げるクサイイポーズ NO.2 】
+        #鬼顧問成敗ポーズ
+        部活の鬼すぎる顧問を成敗する時に使うポーズ。
+        見つかると逆に顧問に怒られるので要注意。
+        #クサイイポーズ選手権
+    - index: 3
+      name: nikoichi
+      ja: ニコイチポーズ
+      site_ja: ニコイチポーズ
+      name_length: short
+      description: |-
+        黄金コンビ、名コンビなど必ずペアで行うポーズ。
+        付き合ってるんじゃない？ぐらいの距離で行う。
+      share_description: |-
+        【 #部活を盛り上げるクサイイポーズ NO.3 】
+        #ニコイチポーズ
+        黄金コンビ、名コンビなど必ずペアで行うポーズ。
+        付き合ってるんじゃない？ぐらいの距離で行う。
+        #クサイイポーズ選手権
+    - index: 4
+      name: senpai
+      ja: 先輩お疲れ様ポーズ
+      site_ja: |-
+        先輩お疲れ様
+        ポーズ
+      name_length: long
+      description: |-
+        はい、練習お疲れ様でしたっ！！！
+        これをやるだけで、けなげな後輩感が醸せるポーズ。
+      share_description: |-
+        【 #部活を盛り上げるクサイイポーズ NO.4 】
+        #先輩お疲れ様ポーズ
+        はい、練習お疲れ様でしたっ！！！
+        これをやるだけで、けなげな後輩感が醸せるポーズ。
+        #クサイイポーズ選手権
+    - index: 5
+      name: muri
+      ja: マジ無理ポーズ
+      site_ja: マジ無理ポーズ
+      name_length: short
+      description: |-
+        マジ無理〜な気持ちを全身で表現するポーズ。
+        「明日テストだから、マジ無理〜〜」的に活用。
+      share_description: |-
+        【 #部活を盛り上げるクサイイポーズ NO.5 】
+        #マジ無理ポーズ
+        マジ無理〜な気持ちを全身で表現するポーズ。
+        「明日テストだから、マジ無理〜〜」的に活用。
+        #クサイイポーズ選手権
+    - index: 6
+      name: miira
+      ja: ノドミイラポーズ
+      site_ja: ノドミイラポーズ
+      name_length: short
+      description: |-
+        水が飲めず、死ぬほど喉が渇いた時のポーズ。
+        「同情するなら、炭酸くれ」のセリフと一緒に使用。
+      share_description: |-
+        【 #部活を盛り上げるクサイイポーズ NO.6 】
+        #ノドミイラポーズ
+        水が飲めず、死ぬほど喉が渇いた時のポーズ。
+        「同情するなら、炭酸くれ」のセリフと一緒に使用。
+        #クサイイポーズ選手権
+    - index: 7
+      name: 1stgrade
+      ja: なめんな1年ポーズ
+      site_ja: |-
+        なめんな1年
+        ポーズ
+      name_length: long
+      description: |-
+        縦社会がまだ分かっていない1年生に使うポーズ。
+        「まじで、今年の1年何様？」って時にキメる。
+      share_description: |-
+        【 #部活を盛り上げるクサイイポーズ NO.7 】
+        #なめんな1年ポーズ
+        縦社会がまだ分かっていない1年生に使うポーズ。
+        「まじで、今年の1年何様？」って時にキメる。
+        #クサイイポーズ選手権
+    - index: 8
+      name: rock
+      ja: ROCKポーズ
+      site_ja: ROCKポーズ
+      name_length: short
+      description: |-
+        応援してめっちゃハイテンションな時のポーズ。
+        革ジャンを纏ったBON-JOVIになった気分で行う。
+      share_description: |-
+        【 #部活を盛り上げるクサイイポーズ NO.8 】
+        #ROCKポーズ
+        応援してめっちゃハイテンションな時のポーズ。
+        革ジャンを纏ったBON-JOVIになった気分で行う。
+        #クサイイポーズ選手権
+    - index: 9
+      name: train
+      ja: 団結トレインポーズ
+      site_ja: |-
+        団結トレイン
+        ポーズ
+      name_length: long
+      description: |-
+        団結力を劇的にアップさせるためのポーズ。
+        色黒なメンバーでやると、本家に近づく。
+      share_description: |-
+        【 #部活を盛り上げるクサイイポーズ NO.9 】
+        #団結トレインポーズ
+        団結力を劇的にアップさせるためのポーズ。
+        色黒なメンバーでやると、本家に近づく。
+        #クサイイポーズ選手権
+    - index: 10
+      name: imanimitero
+      ja: 今に見てろポーズ
+      site_ja: 今に見てろポーズ
+      name_length: short
+      description: |-
+        部活に青春を捧げすぎて女子力を失った部活生が、
+        「引退後は絶対に可愛くなってやる」と宣言するポーズ。
+      share_description: |-
+        【 #部活を盛り上げるクサイイポーズ NO.10 】
+        #今に見てろポーズ
+        部活に青春を捧げすぎて女子力を失った部活生が、
+        「引退後は絶対に可愛くなってやる」と宣言するポーズ。
+        #クサイイポーズ選手権
+    - index: 11
+      name: 3rdgrade
+      ja: グッバイ3年ポーズ
+      site_ja: |-
+        グッバイ3年
+        ポーズ
+      name_length: long
+      description: |-
+        2年先に生まれただけで威張る先輩に使うポーズ。
+        「早く卒業して!!」という思いを込める。
+      share_description: |-
+        【 #部活を盛り上げるクサイイポーズ NO.11 】
+        #グッバイ3年ポーズ
+        2年先に生まれただけで威張る先輩に使うポーズ。
+        「早く卒業して!!」という思いを込める。
+        #クサイイポーズ選手権
+    - index: 12
+      name: 2ndgrade
+      ja: 見守り2年ポーズ
+      site_ja: 見守り2年ポーズ
+      name_length: short
+      description: |-
+        上級生と下級生の間で板挟みの2年が使うポーズ。
+        どちらの争いも冷静に見守る姿勢を示すべし。
+      share_description: |-
+        【 #部活を盛り上げるクサイイポーズ NO.12 】
+        #見守り2年ポーズ
+        上級生と下級生の間で板挟みの2年が使うポーズ。
+        どちらの争いも冷静に見守る姿勢を示すべし。
+        #クサイイポーズ選手権
+    - index: 13
+      name: kizuna
+      ja: 無限キズナポーズ
+      site_ja: 無限キズナポーズ
+      name_length: short
+      description: |-
+        仲間どうしの無限のキズナと可能性を表したポーズ。
+        まるでUFOが降りてきそうな見た目がポイント。
+      share_description: |-
+        【 #部活を盛り上げるクサイイポーズ NO.13 】
+        #無限キズナポーズ
+        仲間どうしの無限のキズナと可能性を表したポーズ。
+        まるでUFOが降りてきそうな見た目がポイント。
+        #クサイイポーズ選手権
+    - index: 14
+      name: time
+      ja: タイムタイムポーズ
+      site_ja: |-
+        タイムタイム
+        ポーズ
+      name_length: long
+      description: |-
+        「ちょっっ、タイムタイム」って時に使うポーズ。
+        キツイ練習のときは即刻使いまくるべし。
+      share_description: |-
+        【 #部活を盛り上げるクサイイポーズ NO.14 】
+        #タイムタイムポーズ
+        「ちょっっ、タイムタイム」って時に使うポーズ。
+        キツイ練習のときは即刻使いまくるべし。
+        #クサイイポーズ選手権
+    - index: 15
+      name: win
+      ja: 絶対勝つぞポーズ
+      site_ja: 絶対勝つぞポーズ
+      name_length: short
+      description: |-
+        試合や大会前に気合をいれるポーズ。
+        ゴリマッチョになった気分で腕をつき出そう。
+      share_description: |-
+        【 #部活を盛り上げるクサイイポーズ NO.15 】
+        #絶対勝つぞポーズ
+        試合や大会前に気合をいれるポーズ。
+        ゴリマッチョになった気分で腕をつき出そう。
+        #クサイイポーズ選手権
+    - index: 16
+      name: slowmotion
+      ja: スローモーションポーズ
+      site_ja: |-
+        スローモーション
+        ポーズ
+      name_length: long
+      description: |-
+        時が止まったかの様に見えるポーズ。
+        サッカー部のシュート、陸上部のスタートなどなどに応用。
+      share_description: |-
+        【 #部活を盛り上げるクサイイポーズ NO.16 】
+        #スローモーションポーズ
+        時が止まったかの様に見えるポーズ。
+        サッカー部のシュート、陸上部のスタートなどなどに応用。
+        #クサイイポーズ選手権
+    - index: 17
+      name: taibu
+      ja: 退部を考える人ポーズ
+      site_ja: |-
+        退部を考える人
+        ポーズ
+      name_length: long
+      description: |-
+        退部しようか…と揺れる気持ちを示唆するポーズ。
+        もし見かけたらみんな全力で引きとめよう。
+      share_description: |-
+        【 #部活を盛り上げるクサイイポーズ NO.17 】
+        #退部を考える人ポーズ
+        退部しようか…と揺れる気持ちを示唆するポーズ。
+        もし見かけたらみんな全力で引きとめよう。
+        #クサイイポーズ選手権
+    - index: 18
+      name: rabbit
+      ja: うさぎ跳びポーズ
+      site_ja: うさぎ跳びポーズ
+      name_length: short
+      description: |-
+        絶滅したうさぎ跳びの練習をポーズで再現。
+        画像加工アプリで、可愛く撮るのもアリかも?
+      share_description: |-
+        【 #部活を盛り上げるクサイイポーズ NO.18 】
+        #うさぎ跳びポーズ
+        絶滅したうさぎ跳びの練習をポーズで再現。
+        画像加工アプリで、可愛く撮るのもアリかも?
+        #クサイイポーズ選手権
+    - index: 19
+      name: hado
+      ja: 波動砲ポーズ
+      site_ja: 波動砲ポーズ
+      name_length: short
+      description: |-
+        相手チームをこっそり威嚇するポーズ。
+        「私らベンチから、エースに波動砲を食らわしとくね♥」
+      share_description: |-
+        【 #部活を盛り上げるクサイイポーズ NO.19 】
+        #波動砲ポーズ
+        相手チームをこっそり威嚇するポーズ。
+        「私らベンチから、エースに波動砲を食らわしとくね♥」
+        #クサイイポーズ選手権
+    - index: 20
+      name: minabaua
+      ja: 皆バウアーポーズ
+      site_ja: 皆バウアーポーズ
+      name_length: short
+      description: |-
+        びっくり仰天な心を表すポーズ。顧問の電撃解任、
+        仲間の退部に「みんなで、皆バウアーしよ♥」
+      share_description: |-
+        【 #部活を盛り上げるクサイイポーズ NO.20 】
+         #皆バウアーポーズ
+        びっくり仰天な心を表すポーズ。顧問の電撃解任、
+        仲間の退部に「みんなで、皆バウアーしよ♥」
+        #クサイイポーズ選手権
+    - index: 21
+      name: 8x4
+      ja: 8x4ポーズ
+      site_ja: 8x4ポーズ
+      name_length: short
+      description: |-
+        全身で8x4を表現する8x4ポーズ。
+        夏だ部活だエイエイフォー!な時にみんなでやろう。
+      share_description: |-
+        【 #部活を盛り上げるクサイイポーズ NO.21 】
+        #8x4ポーズ
+        全身で8x4を表現する8x4ポーズ。
+        夏だ部活だエイエイフォー!な時にみんなでやろう。
+        #クサイイポーズ選手権
+    - index: 22
+      name: kibishi
+      ja: キビシーポーズ
+      site_ja: キビシーポーズ
+      name_length: short
+      description: |-
+        ミスや敗戦など厳しい現実に直面したら使うポーズ。
+        ちょいダサで昭和な香りに苦笑しながらキメる。
+      share_description: |-
+        【 #部活を盛り上げるクサイイポーズ NO.22 】
+        #キビシーポーズ
+        ミスや敗戦など厳しい現実に直面したら使うポーズ。
+        ちょいダサで昭和な香りに苦笑しながらキメる。
+        #クサイイポーズ選手権
+    - index: 23
+      name: mariage
+      ja: マリアージュポーズ
+      site_ja: |-
+        マリアージュ
+        ポーズ
+      name_length: long
+      description: |-
+        つき指した仲間と一緒に不運を嘆くポーズ。
+        肥大化した指が友情や恋を育むかも・・・？
+      share_description: |-
+        【 #部活を盛り上げるクサイイポーズ NO.23 】
+        #マリアージュポーズ
+        つき指した仲間と一緒に不運を嘆くポーズ。
+        肥大化した指が友情や恋を育むかも・・・？
+        #クサイイポーズ選手権
+    - index: 24
+      name: venus
+      ja: 勝利の女神降臨ポーズ
+      site_ja: |-
+        勝利の女神降臨
+        ポーズ
+      name_length: long
+      description: |-
+        試合前に、みんなで勝利の女神を降臨させるポーズ。
+        相手チームをビビらす効果は絶大。
+      share_description: |-
+        【 #部活を盛り上げるクサイイポーズ NO.24 】
+        #勝利の女神降臨ポーズ
+        試合前に、みんなで勝利の女神を降臨させるポーズ。
+        相手チームをビビらす効果は絶大。
+        #クサイイポーズ選手権
+    - index: 25
+      name: commit
+      ja: 勝利にコミットポーズ
+      site_ja: |-
+        勝利にコミット
+        ポーズ
+      name_length: long
+      description: |-
+        勝利にコミットする宣言をするためのポーズ。
+        絶好調なヤツと、絶不調なヤツの二人組で行う。
+      share_description: |-
+        【 #部活を盛り上げるクサイイポーズ NO.25 】
+        #勝利にコミットポーズ
+        勝利にコミットする宣言をするためのポーズ。
+        絶好調なヤツと、絶不調なヤツの二人組で行う。
+        #クサイイポーズ選手権
+    - index: 26
+      name: kiko
+      ja: 気功波ポーズ
+      site_ja: 気功波ポーズ
+      name_length: short
+      description: |-
+        達人感を醸し出せるアクロバットポーズ。
+        部活仲間から一目置かれたいときに撮影するとよし。
+      share_description: |-
+        【 #部活を盛り上げるクサイイポーズ NO.26 】
+        #気功波ポーズ
+        達人感を醸し出せるアクロバットポーズ。
+        部活仲間から一目置かれたいときに撮影するとよし。
+        #クサイイポーズ選手権
+    - index: 27
+      name: airchair
+      ja: 空気椅子ポーズ
+      site_ja: 空気椅子ポーズ
+      name_length: short
+      description: |-
+        伝説の特訓「空気椅子」を模したポーズ。
+        長時間続けると小鹿のように足がプルプルしてくる。
+      share_description: |-
+        【 #部活を盛り上げるクサイイポーズ NO.27 】
+        #空気椅子ポーズ
+        伝説の特訓「空気椅子」を模したポーズ。
+        長時間続けると小鹿のように足がプルプルしてくる。
+        #クサイイポーズ選手権
+    - index: 28
+      name: friend
+      ja: ズッ友ポーズ
+      site_ja: ズッ友ポーズ
+      name_length: short
+      description: |-
+        永遠の友情を部活みんなで誓うポーズ。
+        リア充達と一線を画す、爽やかな星をつくるのがポイント。
+      share_description: |-
+        【 #部活を盛り上げるクサイイポーズ NO.28 】
+        #ズッ友ポーズ
+        永遠の友情を部活みんなで誓うポーズ。
+        リア充達と一線を画す、爽やかな星をつくるのがポイント。
+        #クサイイポーズ選手権
+    - index: 29
+      name: ase
+      ja: 汗と涙の結晶ポーズ
+      site_ja: |-
+        汗と涙の結晶
+        ポーズ
+      name_length: long
+      description: |-
+        練習の汗と涙の結晶を表現するポーズ。
+        人目は気にせず、ひたむきな練習の成果を讃えよう。
+      share_description: |-
+        【 #部活を盛り上げるクサイイポーズ NO.29 】
+        #汗と涙の結晶ポーズ
+        練習の汗と涙の結晶を表現するポーズ。
+        人目は気にせず、ひたむきな練習の成果を讃えよう。
+        #クサイイポーズ選手権
+    - index: 30
+      name: mayu
+      ja: 眉ビームポーズ
+      site_ja: 眉ビームポーズ
+      name_length: short
+      description: |-
+        すっぴんで練習後に眉毛を隠しながら取るポーズ。
+        鶴の恩返し同様、絶対に2本指の後ろを見せないように。
+      share_description: |-
+        【 #部活を盛り上げるクサイイポーズ NO.30 】
+        #眉ビームポーズ
+        すっぴんで練習後に眉毛を隠しながら取るポーズ。
+        鶴の恩返し同様、絶対に2本指の後ろを見せないように。
+        #クサイイポーズ選手権
+    - index: 31
+      name: jump
+      ja: 定番ジャンプポーズ
+      site_ja: |-
+        定番ジャンプ
+        ポーズ
+      name_length: long
+      description: |-
+        まさに定番とも言えるジャンプポーズ。
+        練習後や合宿明けに「とりま、ジャンプしとこ!!」
+      share_description: |-
+        【 #部活を盛り上げるクサイイポーズ NO.31 】
+        #定番ジャンプポーズ
+        まさに定番とも言えるジャンプポーズ。
+        練習後や合宿明けに「とりま、ジャンプしとこ!!」
+        #クサイイポーズ選手権
+    - index: 32
+      name: mvp
+      ja: 本日のMVPポーズ
+      site_ja: |-
+        本日のMVP
+        ポーズ
+      name_length: long
+      description: |-
+        練習終わりに本日のMVPを称えるポーズ。
+        「今日の〇〇まじで最高すぎ、MVP！」
+      share_description: |-
+        【 #部活を盛り上げるクサイイポーズ NO.32 】
+        #本日のMVPポーズ
+        練習終わりに本日のMVPを称えるポーズ。
+        「今日の〇〇まじで最高すぎ、MVP！」
+        #クサイイポーズ選手権
+
+development:
+  <<: *defaults
+#  poses: # 開発用の設定です。
+#    - index: 1
+#      name: cat
+#      ja: ねこ
+#      description Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#    - index: 2
+#      name: pose2
+#      ja: 猫
+#      description Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#    - index: 3
+#      name: dog
+#      ja: 犬
+#      description Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#    - index: 4
+#      name: dog
+#      ja: いぬ
+#      description Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#    - index: 5
+#      name: omosiro
+#      ja: おもしろ
+#      description Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#    - index: 6
+#      name: かわいい
+#      ja: kawaii
+#      description Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+test:
+  <<: *defaults
+
+production:
+  <<: *defaults
