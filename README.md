@@ -25,3 +25,5 @@ Things you may want to cover:
 https://github.com/kpumuk/meta-tags
 http://qiita.com/tomomomo1217/items/912afba852dc524d748e
 http://easyramble.com/rails-meta-tags.html
+
+[settingslogicを使った環境毎の定義と、rspecでの値の一時的な書き換え](http://dev.classmethod.jp/server-side/ruby-on-rails/using_settingslogic_environment_rspec_temporary_overwrite/)

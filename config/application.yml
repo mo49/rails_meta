@@ -16,7 +16,7 @@ defaults: &defaults
       og:
         title: page title
         type: website
-        image_path: /img/ogp.png
+        image: /img/ogp.png
       twitter:
         title: page title
         description: |-

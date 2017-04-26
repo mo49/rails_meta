@@ -28,7 +28,7 @@ module ApplicationHelper
   end
 
   def page_og_image
-    @page_image||image_url(Settings.site.meta.og.image_path)
+    @page_image||image_url(Settings.site.meta.og.image)
   end
 
   def default_twitter
