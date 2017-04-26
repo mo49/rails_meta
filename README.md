@@ -21,4 +21,7 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+> 参考
+https://github.com/kpumuk/meta-tags
+http://qiita.com/tomomomo1217/items/912afba852dc524d748e
+http://easyramble.com/rails-meta-tags.html
