@@ -1,16 +1,14 @@
 defaults: &defaults
+  # 全体ページ
   site:
     name: site name
     root_url: https://sample.com
-    sns_account:
-      twitter: https://twitter.com/sample
-      instagram: https://www.instagram.com/sample
     meta:
       title: page title
       description: description
       keywords: sample1, sample2, sample3
-      webclipicon_url: /webclipicon.png
-      favicon_url: /favicon.ico
+      webclipicon: /webclipicon.png
+      favicon: /favicon.ico
       fb:
         app_id: 9999999999
       og:
@@ -21,10 +19,20 @@ defaults: &defaults
         title: page title
         description: |-
           description
-          description #hashtag
+          #hashtag description
         image: /img/ogp.png
         hashtags: hashtag1, hashtag2
-  ogp: # 複数ogp
+    sns_account:
+      twitter: https://twitter.com/sample
+      instagram: https://www.instagram.com/sample
+  # 個別ページ
+  about:
+    meta:
+      title: about page
+      description: about description
+      keywords: about1, about2, about3
+  # 複数OGP
+  ogp:
     - index: 1
       title: ogp1 title
       description: ogp1 description

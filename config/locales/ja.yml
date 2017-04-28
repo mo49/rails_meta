@@ -1,0 +1,14 @@
+ja:
+  site: # view名
+    index:  # action名
+      title: テストタイトル # このviewの中では t('.title')と記載できる
+      keywords: テストキーワード
+      description: てすとでぃすくりぷしょん
+    about:
+      title: about page
+      keywords: about, about2
+      description: about about about
+    contact:
+      title: contact page
+      keywords:
+      description:
